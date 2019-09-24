@@ -1,0 +1,28 @@
+{
+  "name": "malyn_gamboa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mitchven/Malyn_Gamboa.git"
+  },
+  "keywords": [
+    "Heroku"
+  ],
+  "author": "Malyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitchven/Malyn_Gamboa/issues"
+  },
+  "homepage": "https://github.com/Mitchven/Malyn_Gamboa#readme",
+  "engines": {
+    "node": "10.16"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
